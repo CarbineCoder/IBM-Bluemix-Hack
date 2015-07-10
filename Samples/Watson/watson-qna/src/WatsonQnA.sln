@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatsonQnA", "FirstApp\WatsonQnA.csproj", "{D34B23C8-2946-455F-88E1-8B48DB71C096}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "SharedProject", "SharedProject\SharedProject.shproj", "{348290DF-3B25-4660-A8CD-EB9979B3079A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D34B23C8-2946-455F-88E1-8B48DB71C096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34B23C8-2946-455F-88E1-8B48DB71C096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34B23C8-2946-455F-88E1-8B48DB71C096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34B23C8-2946-455F-88E1-8B48DB71C096}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
