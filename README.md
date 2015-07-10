@@ -10,6 +10,7 @@ Before looking into the samples, Follow the steps below to create a bluemix acco
 * On the left pane, click on "Create a Space" and give a proper name for your new space. To understand more on Organizations and spaces visit
 https://www.ng.bluemix.net/docs/#acctmgmt/index.html#acctmgmt.
 * Now navigate to CATALOG and create a new service of your choice.
+* For credentials (Username / Password), DASHBOARD-> App ->Service -> "Show Credentials". 
 
 More info - http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/
 ###Watson API Reference - 
