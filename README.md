@@ -15,6 +15,7 @@ https://www.ng.bluemix.net/docs/#acctmgmt/index.html#acctmgmt.
 More info - http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/getting_started/
 ###Watson API Reference - 
 http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/apis/
+http://www.ibm.com/developerworks/cloud/library/cl-watson-qaapi-app/
 
 ### Alchemy API - 
 http://alchemyapi.readme.io/v1.0/docs/getting-started-1
