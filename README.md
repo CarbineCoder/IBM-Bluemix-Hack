@@ -4,7 +4,7 @@ Before looking into the samples, Follow the steps below to create a bluemix acco
 
 ##Setting up Bluemix to access Watson Services.
 
-* Visit https://console.ng.bluemix.net and Sign-up .
+* Visit https://ibm.biz/bluemixapp and Sign-up .
 * On successful account creation, you will receive an email with a link to authenticate (this is a 30 day trial only).
 * Now log into your bluemix account and Click on DASHBOARD.
 * On the left pane, click on "Create a Space" and give a proper name for your new space. To understand more on Organizations and spaces visit
