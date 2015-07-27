@@ -2,7 +2,7 @@ For this hack, we recommend usage of IBM's Bluemix (Watson/Alchemy/Cloudant) Ser
 #Getting Started With IBM Bluemix
 Before looking into the samples, Follow the steps below to create a bluemix account and an app with credentials required to access the required API/service.
 
-##Setting up Bluemix to access Watson Services.
+##Setting up Bluemix to access Watson/Cloudant Services.
 
 * Visit https://ibm.biz/bluemixapp and Sign-up .
 * On successful account creation, you will receive an email with a link to authenticate (this is a 30 day trial only).
@@ -17,8 +17,10 @@ More info - http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/doc/
 http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/apis/
 http://www.ibm.com/developerworks/cloud/library/cl-watson-qaapi-app/
 
+###Cloudant Database Documentation - 
+https://docs.cloudant.com/database.html#undefined
+
 ### Alchemy API - 
 http://alchemyapi.readme.io/v1.0/docs/getting-started-1
 
-###Cloudant Database Documentation - 
-https://docs.cloudant.com/database.html#undefined
+
