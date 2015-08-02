@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WatsonLanguageTranslation.StartPage">
+  <StackLayout>
+	<Label Text="Language Translation" FontSize="16" />
+  <Label Text="Enter Text" FontSize="12" />
+  <Entry x:Name="txtConversionString"></Entry>
+  <Label Text="From" FontSize="16" />
+  <Picker x:Name="cboFrom"  ></Picker>  
+  <Label Text="To" FontSize="12" />
+  <Picker x:Name="cboTo"  ></Picker> 
+  <Button x:Name="btnTranslate" HeightRequest="100" WidthRequest="200" Text="Translate"></Button>
+  <Entry x:Name="txtResult"></Entry>
+  </StackLayout>
+</ContentPage>
